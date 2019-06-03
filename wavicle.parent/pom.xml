@@ -5,7 +5,7 @@
 
 	<groupId>wavicle</groupId>
 	<artifactId>wavicle.parent</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<packaging>pom</packaging>
 
 	<name>A generic parent Maven project</name>
@@ -25,7 +25,7 @@
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-lang3</artifactId>
-			<version>3.8</version>
+			<version>3.9</version>
 		</dependency>
 	</dependencies>
 
